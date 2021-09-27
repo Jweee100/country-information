@@ -63,3 +63,4 @@ _Tip:_ als er een ongeldige API call wordt gemaakt, zal de response in het `catc
 13. Zorg ervoor dat als je na een ongeldige API call weer een geldige API call maakt, de foutmelding verdwenen is.
 
 14. **Bonusopdracht:** make it look nice! 😍
+# country-information
